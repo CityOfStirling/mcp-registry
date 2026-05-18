@@ -1,0 +1,18 @@
+{
+  "servers": [
+    {
+      "id": "salesforce-dx",
+      "name": "Salesforce DX MCP",
+      "description": "Approved Salesforce MCP server",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@salesforce/mcp@latest",
+        "--orgs",
+        "DEFAULT_TARGET_ORG",
+        "--toolsets",
+        "orgs,metadata,data,users,testing"
+      ]
+    }
+  ]
+}
