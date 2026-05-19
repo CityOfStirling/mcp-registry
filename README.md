@@ -7,7 +7,7 @@ This repository contains the approved Model Context Protocol (MCP) servers for u
 This repository enforces governance over which MCP servers are permitted. Only servers defined in the `servers.json` file are allowed for use, ensuring:
 
 - Secure and controlled integration with external tools
-- Reduced risk of unauthorized code execution
+- Reduced risk of unauthorised code execution
 - Centralised management of AI tool access
 
 ## Governance Model
