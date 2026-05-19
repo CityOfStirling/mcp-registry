@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "id": "salesforce-dx",
+      "name": "Salesforce DX MCP",
+      "description": "Approved Salesforce MCP server"
+    }
+  ]
+}
+``
